@@ -1,0 +1,92 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 206
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:proteles country:&#34;kenya&#34;" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "bristlecone pine" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:HSU" ; Times: 1
+	Query: "Dipodomys stephensi county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34; institutioncode:HSU" ; Times: 1
+	Query: "fishlake national forest" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1931" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 674 download events in this period)
+Total number of records downloaded: 361
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 6
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1931" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes county:&#34;kern&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1930" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
