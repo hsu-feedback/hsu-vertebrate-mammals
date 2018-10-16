@@ -1,0 +1,236 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 7285
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 171
+	Country: Brazil ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 4
+	Date: 2018-04-03 ; Times: 59
+	Date: 2018-04-02 ; Times: 37
+	Date: 2018-04-05 ; Times: 19
+	Date: 2018-04-04 ; Times: 31
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:Lissodelphis institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:concolor genus:Felis institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:bachmani genus:Sylvilagus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:jubatus genus:eumetopias institutioncode:HSU" ; Times: 3
+	Query: "genus:mustela erminea institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:phocoena genus:Phocoena institutioncode:HSU" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 2
+	Query: "Zalophus californianus institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:californicus genus:myodes institutioncode:HSU" ; Times: 4
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "specificepithet:taxus genus:Taxidea institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:hsu mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU Glaucomys sabrinus" ; Times: 1
+	Query: "mustela vison institutioncode:HSU" ; Times: 1
+	Query: "genus:sorex county:&#34;humboldt&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "mirounga angustirostris" ; Times: 4
+	Query: "order:Primates institutioncode:HSU" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:borealis genus:Lissodelphis" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra institutioncode:HSU" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "specificepithet:concolor genus:Felis" ; Times: 2
+	Query: "specificepithet:lutris genus:Enhydra institutioncode:HSU" ; Times: 1
+	Query: "genus:Tamias institutioncode:HSU" ; Times: 3
+	Query: "genus:lagenorhynchus obliquidens" ; Times: 3
+	Query: "genus:lagenorhynchus obliquidens institutioncode:HSU" ; Times: 3
+	Query: "Megaptera novaeangliae institutioncode:HSU" ; Times: 1
+	Query: "lasiurus sp" ; Times: 1
+	Query: "Marmota flaviventris vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:douglasii genus:tamiasciurus institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:pennanti genus:Martes institutioncode:HSU" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806" ; Times: 3
+	Query: "genus:Lasionycteris year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus institutioncode:HSU" ; Times: 2
+	Query: "genus:Lynx specificepithet:rufus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Eumops county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 23
+	Query: "specificepithet:Noctivagans genus:Lasionycteris institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Martes institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:pomo genus:Arborimus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Neotoma specificepithet:fuscipes mappable:1 hasmass:1" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "Marmota flaviventris institutioncode:HSU" ; Times: 1
+	Query: "genus:lontra county:&#34;humboldt&#34;" ; Times: 4
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 glaucomys sabrinus" ; Times: 5
+	Query: "genus:lontra institutioncode:HSU" ; Times: 1
+	Query: "Lepus californicus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:pomo genus:Arborimus" ; Times: 5
+	Query: "specificepithet:virginiana genus:didelphis institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:Bottae genus:Thomomys institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:HSU" ; Times: 2
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 Glaucomys sabrinus length" ; Times: 1
+	Query: "family:rhinocerotidae institutioncode:HSU" ; Times: 2
+	Query: "institutioncode:HSU clethrionomys" ; Times: 1
+	Query: "institutioncode:HSU Tadarida Brasiliensis" ; Times: 1
+	Query: "specificepithet:zibethicus genus:ondatra institutioncode:HSU" ; Times: 1
+	Query: "pinniped" ; Times: 3
+	Query: "sex:Male institutioncode:HSU Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus institutioncode:HSU" ; Times: 1
+	Query: "sex:Female institutioncode:HSU" ; Times: 1
+	Query: "genus:dipodomys catalognumber:366" ; Times: 1
+	Query: "genus:tamiasciurus institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys institutioncode:HSU" ; Times: 1
+	Query: "genus:dipodomys institutioncode:HSU" ; Times: 4
+	Query: "genus:Tamiasciurus specificepithet:douglasii mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:siskiyou mappable:1 hasmass:1" ; Times: 2
+	Query: "sex:Female institutioncode:HSU Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus institutioncode:HSU" ; Times: 1
+	Query: "Pinniped" ; Times: 3
+	Query: "specificepithet:musculus genus:mus institutioncode:HSU" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 Glaucomys sabrinus" ; Times: 1
+	Query: "Lontra canadensis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Vulpes vulpes vntype:specimen specificepithet:vulpes genus:Vulpes (Vulpes AND vulpes) institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx institutioncode:HSU" ; Times: 2
+	Query: "genus:Tamias specificepithet:senex mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:californicus genus:myodes" ; Times: 1
+	Query: "genus:Ursus specificepithet:americanus mappable:1 hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 120 (out of 1359 download events in this period)
+Total number of records downloaded: 25055
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Poland ; Times: 3
+	Country: United States ; Times: 109
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 43
+	Date: 2018-04-02 ; Times: 15
+	Date: 2018-04-05 ; Times: 12
+	Date: 2018-04-04 ; Times: 21
+	Date: 2018-04-13 ; Times: 10
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys institutioncode:HSU" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "genus:dipodomys institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:concolor genus:Felis institutioncode:HSU" ; Times: 2
+	Query: "Marmota flaviventris institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:bachmani genus:Sylvilagus institutioncode:HSU" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 glaucomys sabrinus" ; Times: 2
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "order:Rodentia county:&#34;kings&#34;" ; Times: 1
+	Query: "Lepus californicus institutioncode:HSU" ; Times: 4
+	Query: "specificepithet:Bottae genus:Thomomys institutioncode:HSU" ; Times: 2
+	Query: "genus:mustela erminea institutioncode:HSU" ; Times: 2
+	Query: "genus:lagenorhynchus obliquidens institutioncode:HSU" ; Times: 4
+	Query: "genus:Tamias institutioncode:HSU" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon institutioncode:HSU" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myodes institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:phocoena genus:Phocoena institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis institutioncode:HSU" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "specificepithet:rattus genus:rattus institutioncode:HSU" ; Times: 2
+	Query: "Zalophus californianus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus institutioncode:HSU" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:HSU" ; Times: 2
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:jubatus genus:eumetopias institutioncode:HSU" ; Times: 5
+	Query: "specificepithet:canadensis genus:Castor institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:gibbsii genus:Neurotrichus institutioncode:HSU" ; Times: 7
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU Tadarida Brasiliensis" ; Times: 1
+	Query: "specificepithet:lutris genus:Enhydra institutioncode:HSU" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes institutioncode:HSU" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:musculus genus:mus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:zibethicus genus:ondatra institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:fuscus genus:Eptesicus institutioncode:HSU" ; Times: 2
+	Query: "vntype:specimen specificepithet:americana genus:Martes institutioncode:HSU" ; Times: 2
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 4
+	Query: "specificepithet:splendens genus:Tachyoryctes country:&#34;Kenya&#34;" ; Times: 1
+	Query: "institutioncode:hsu mirounga angustirostris" ; Times: 1
+	Query: "Lontra canadensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Vulpes vulpes vntype:specimen specificepithet:vulpes genus:Vulpes (Vulpes AND vulpes) institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 2
+	Query: "agouti paca" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:griseus genus:sciurus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus institutioncode:HSU" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "Enhydra lutris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:sorex county:&#34;humboldt&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "specificepithet:pomo genus:Arborimus institutioncode:HSU" ; Times: 1
+	Query: "mustela vison institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:robustus genus:Eschrichtius institutioncode:HSU" ; Times: 1
+
+
+End of report.
