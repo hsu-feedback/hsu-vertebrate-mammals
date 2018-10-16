@@ -1,0 +1,116 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 524
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "genus:Balaenoptera institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "jmv" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "Pronolagus" ; Times: 2
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:ochrogenys institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "locality:steen stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "lengthinmm &gt;= 1 lengthinmm &lt;= 1000 lengthtype:head-body length range" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "marshalltown iowa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1178 download events in this period)
+Total number of records downloaded: 17391
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "marshalltown" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:HSU" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
