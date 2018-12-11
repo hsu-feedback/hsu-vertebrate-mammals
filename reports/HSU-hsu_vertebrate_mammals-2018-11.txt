@@ -1,0 +1,256 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 1711
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 22
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-23 ; Times: 5
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 9
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-02 ; Times: 12
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-10 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 4
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Spalacidae institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:gracilis genus:spilogale year &gt;= 2000" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 3
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 Manis" ; Times: 1
+	Query: "class:Mammalia locality:Isla Cerralvo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Manis institutioncode:HSU" ; Times: 1
+	Query: "genus:dipodomys catalognumber:1903" ; Times: 1
+	Query: "family:Bathyergidae institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "class:Mammalia locality:Isla Santa Cruz country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Isla Tortuga country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vision genus:mustela family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (NOT ermine NOT erminea)" ; Times: 1
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:HSU" ; Times: 1
+	Query: "collectioncode:VertebrateMammals institutioncode:HSU" ; Times: 2
+	Query: "order:Chiroptera institutioncode:HSU" ; Times: 6
+	Query: "family:Dipodidae institutioncode:HSU" ; Times: 3
+	Query: "genus:Peromyscus catalognumber:2461" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806" ; Times: 2
+	Query: "genus:Peromyscus catalognumber:1638" ; Times: 6
+	Query: "Cebuella pygmaea" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 2
+	Query: "mustela vision" ; Times: 1
+	Query: "Mustela vision" ; Times: 4
+	Query: "tarsiidae" ; Times: 2
+	Query: "specificepithet:alces genus:alces country:&#34;united states&#34;" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Macroscelidea institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:sungorus" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 4
+	Query: "genus:Manis institutioncode:HSU" ; Times: 3
+	Query: "San Diego Zoo mammalia" ; Times: 1
+	Query: "specificepithet:vision genus:mustela family:mustelidae order:carnivora class:Mammalia" ; Times: 1
+	Query: "class:Mammalia locality:Isla Monserrat country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 172 (out of 1719 download events in this period)
+Total number of records downloaded: 21140
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 94
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 62
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 8
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 13
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 10
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 8
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 14
+	Date: 2018-11-23 ; Times: 3
+	Date: 2018-11-29 ; Times: 8
+	Date: 2018-11-18 ; Times: 4
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-11 ; Times: 11
+	Date: 2018-11-12 ; Times: 17
+	Date: 2018-11-13 ; Times: 4
+	Date: 2018-11-14 ; Times: 12
+	Date: 2018-11-15 ; Times: 34
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nasua narica" ; Times: 1
+	Query: "class:Mammalia locality:Isla San Jose country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 4
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "tamandua tetradactyla" ; Times: 1
+	Query: "&#34;neotoma micropus&#34;" ; Times: 1
+	Query: "Lepus californicus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "order:Chiroptera institutioncode:HSU" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Marmota hasmass:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "genus:marmota specificepithet:caligata" ; Times: 1
+	Query: "Mustela vision" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 3
+	Query: "lontra canadensis" ; Times: 3
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "genus:Saccopteryx bilineata" ; Times: 1
+	Query: "Chaetodipus baileyi" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:Carollia perspicillata" ; Times: 2
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (neovision OR vision OR mink)" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "california specificepithet:vitulina genus:Phoca" ; Times: 2
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Mormoops megalophylla" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "Sorex hoyi vntype:specimen lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "specificepithet:caligata hasmass:1" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "collectioncode:VertebrateMammals institutioncode:HSU" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "class:Mammalia locality:Isla Cerralvo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; continent:AMERICA" ; Times: 1
+	Query: "class:Mammalia locality:Isla Tortuga country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:opossum genus:Philander" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "genus:Caluromys derbianus" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Aotus trivirgatus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Cebuella pygmaea" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "island specificepithet:maniculatus genus:peromyscus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "genus:Philander opossum" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Ateles geoffroyi" ; Times: 2
+	Query: "genus:Sturnira lilium" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "class:Mammalia locality:Isla Carmen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "class:Mammalia locality:Isla Santa Cruz country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:HSU" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "class:mammalia country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "specificepithet:caligata genus:Marmota basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "baculum vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "class:Mammalia locality:Isla Monserrat country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
