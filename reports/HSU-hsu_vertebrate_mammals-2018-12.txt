@@ -1,0 +1,128 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 264
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Mozambique ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-16 ; Times: 4
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-13 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "order:carnivora county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;harney&#34; institutioncode:HSU" ; Times: 1
+	Query: "marine mammal hsu" ; Times: 1
+	Query: "locality:Pinnacles National county:&#34;San Benito&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "Brokeoff" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "hsu mammals" ; Times: 1
+	Query: "Acinonyx jubatus	 100" ; Times: 1
+	Query: "genus:orycteropus class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Halichoerus" ; Times: 1
+	Query: "order:erinaceomorpha class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:CARNIVORA county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;CALIFORNIA&#34; institutioncode:HSU" ; Times: 1
+	Query: "pteronotus parnelli" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "specificepithet:derbianus genus:Caluromys country:&#34;Panama&#34;" ; Times: 1
+	Query: "vulpes chama" ; Times: 2
+	Query: "hsu mirounga" ; Times: 3
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:HSU" ; Times: 1
+	Query: "order:tubulidentata class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex hasmass:1" ; Times: 1
+	Query: "specificepithet:brunnea genus:Hyaena" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 809 download events in this period)
+Total number of records downloaded: 876
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-09 ; Times: 12
+	Date: 2018-12-10 ; Times: 8
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "eira barbara" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "county:&#34;harney&#34; institutioncode:HSU" ; Times: 1
+
+
+End of report.
