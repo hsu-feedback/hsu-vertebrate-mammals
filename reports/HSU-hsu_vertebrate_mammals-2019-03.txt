@@ -1,0 +1,190 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 599
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 132
+	Country: Unknown ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 12
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-05 ; Times: 20
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 17
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-04 ; Times: 7
+	Date: 2019-03-14 ; Times: 15
+	Date: 2019-03-06 ; Times: 11
+	Date: 2019-03-12 ; Times: 14
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-29 ; Times: 7
+	Date: 2019-03-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "catalognumber:5827 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3248 institutioncode:HSU" ; Times: 1
+	Query: "Napeozapus insignis" ; Times: 2
+	Query: "catalognumber:7420 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:4070 institutioncode:HSU" ; Times: 6
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "catalognumber:818 institutioncode:HSU" ; Times: 6
+	Query: "catalognumber:2557 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:7751 institutioncode:HSU" ; Times: 1
+	Query: "HSU 2871" ; Times: 2
+	Query: "catalognumber:4662 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3609 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3105 institutioncode:HSU" ; Times: 2
+	Query: "genus:Zalophus institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2678 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1361 institutioncode:HSU" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;lake&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5886 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:4739 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:6201 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:176 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3250 institutioncode:HSU" ; Times: 2
+	Query: "Vulpes zerda hasmass:1" ; Times: 1
+	Query: "specificepithet:lateralis county:&#34;trinity&#34;" ; Times: 1
+	Query: "locality:Humboldt State University institutioncode:HSU" ; Times: 1
+	Query: "Gorilla gorilla hasmass:1" ; Times: 1
+	Query: "catalognumber:5882 institutioncode:HSU" ; Times: 1
+	Query: "Mesoplodon peruvianus" ; Times: 3
+	Query: "catalognumber:5190 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:34 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2111 institutioncode:HSU" ; Times: 6
+	Query: "catalognumber:819 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:748 institutioncode:HSU" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:5343 institutioncode:HSU" ; Times: 2
+	Query: "Gorilla gorilla gorilla hasmass:1" ; Times: 1
+	Query: "catalognumber:7154 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:623 institutioncode:HSU" ; Times: 2
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "catalognumber:1935 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2573 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:4541 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:parvus genus:Perognathus county:&#34;Inyo&#34;" ; Times: 2
+	Query: "catalognumber:5536 institutioncode:HSU" ; Times: 1
+	Query: "genus:eumops county:&#34;Riverside&#34;" ; Times: 1
+	Query: "catalognumber:3606 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:4711 institutioncode:HSU" ; Times: 2
+	Query: "genus:Callorhinus institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:495 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5649 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:4540 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2966 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes family:Canidae country:&#34;Namibia&#34;" ; Times: 1
+	Query: "catalognumber:1600 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5313 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:4071 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:622 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:456 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1708 institutioncode:HSU" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "catalognumber:5538 institutioncode:HSU" ; Times: 2
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "catalognumber:48 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:724 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2356 institutioncode:HSU" ; Times: 2
+	Query: "Siskiyou specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "genus:eumetopias institutioncode:HSU" ; Times: 1
+	Query: "namibia vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "catalognumber:5225 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:815 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:4539 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:663 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:4424 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2460 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:633 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2437 institutioncode:HSU" ; Times: 2
+	Query: "Vulpes macrotis hasmass:1" ; Times: 2
+	Query: "catalognumber:5262 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:851 institutioncode:HSU" ; Times: 1
+	Query: "946 institutioncode:HSU" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "catalognumber:29 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:8479 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:4549 institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1281 download events in this period)
+Total number of records downloaded: 486
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: United Kingdom ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:eumops county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
