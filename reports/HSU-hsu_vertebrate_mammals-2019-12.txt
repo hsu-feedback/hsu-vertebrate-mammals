@@ -1,0 +1,76 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 133
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 2
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;R. Poultney&#34; &#34;1933&#34;" ; Times: 1
+	Query: "catalognumber:3364 institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "&#34;R. Poultney&#34;" ; Times: 1
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "SERVAL" ; Times: 1
+	Query: "dipodomys stephensi" ; Times: 2
+	Query: "catalognumber:281 institutioncode:HSU" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "Heterocephalus glaber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 146
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Timm" ; Times: 1
+
+
+End of report.
