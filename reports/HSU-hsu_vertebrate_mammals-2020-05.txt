@@ -1,0 +1,104 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 552
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 10
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 5
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chaetodipus intermedius fires" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "locality:branscomb county:&#34;mendocino&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "genus:chaetodipus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; “sus scrofa”" ; Times: 2
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "locality:Branscomb county:&#34;mendocino&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "2071 peromyscus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1106 download events in this period)
+Total number of records downloaded: 1008
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
