@@ -1,0 +1,165 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 729
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 56
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 12
+	Date: 2020-09-16 ; Times: 7
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 5
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-08 ; Times: 20
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "meriones israel" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length hasmass:1" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sciurus carolinensis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "arcata CA" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "eutamias obscurus" ; Times: 5
+	Query: "HSU" ; Times: 1
+	Query: "specificepithet:interparietalis genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "chaetodipus intermedius valley of fires" ; Times: 1
+	Query: "genus:aplodontia county:&#34;mendocino&#34; stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nitratoides nitratoides genus:Dipodomys hasmass:1" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806" ; Times: 2
+	Query: "genus:Felis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "eutamias merriami" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "scientificname:Peromyscus difficilis" ; Times: 2
+	Query: "peromyscus sejugis" ; Times: 3
+	Query: "277 specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "277 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806 7909" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pseudocrinitus genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 3
+	Query: "specificepithet:bottae genus:thomomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:caniceps genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "catalognumber:7909 institutioncode:HSU" ; Times: 1
+	Query: "genus:Aplodontia sex:female hasmass:1 haslength:1" ; Times: 1
+	Query: "tamias obscurus" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 976 download events in this period)
+Total number of records downloaded: 11005
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias sex:Female hasmass:1" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamias striatus haslength:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:nitratoides nitratoides genus:Dipodomys hasmass:1" ; Times: 2
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "genus:Aplodontia sex:female hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
