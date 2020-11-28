@@ -1,0 +1,232 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 1467
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 78
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 21
+	Country: United Kingdom ; Times: 9
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 6
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-13 ; Times: 11
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+	Date: 2020-10-17 ; Times: 6
+	Date: 2020-10-14 ; Times: 4
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-09 ; Times: 7
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 7
+	Date: 2020-10-20 ; Times: 16
+	Date: 2020-10-27 ; Times: 5
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 10
+	Date: 2020-10-30 ; Times: 11
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-31 ; Times: 5
+	Date: 2020-10-06 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pseudocrinitus genus:peromyscus hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:caniceps genus:Peromyscus hassex:1 hasmass:1" ; Times: 2
+	Query: "scientificname:Felis temmincki" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Felis libyca" ; Times: 1
+	Query: "Phocoena phocoena institutioncode:HSU" ; Times: 5
+	Query: "specificepithet:stephani genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "Cynomys ludovicianus country:&#34;United States&#34; hasmass:1" ; Times: 3
+	Query: "Erethizon dorsatum hasmass:1 haslength:1" ; Times: 3
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "specificepithet:ochrogenys genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "Bison bison sex:female hasmass:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Rhynchocyon petersi" ; Times: 1
+	Query: "specificepithet:sejugis genus:Peromyscus hassex:1" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Arctocephalus townsendi" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:interparietalis genus:Peromyscus hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "mappable:1 scientificname:Grampus griseus" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "Odocoileus hemionus sex:male hasmass:1" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia hasmass:1 haslength:1" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Odocoileus hemionus country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "Erethizon dorsatum sex:female hasmass:1" ; Times: 1
+	Query: "MISSOURI cryptotis parva" ; Times: 1
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Orcinus orca" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "scientificname:Funisciurus congicus" ; Times: 15
+	Query: "ochotona princeps talus" ; Times: 1
+	Query: "order:carnivora locality:arusha" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Marmota flaviventris stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "gbifdatasetid:62f37aae-c69a-422f-ad23-32bd92454806" ; Times: 1
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:HSU" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 2
+	Query: "genus:Chinchilla hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "order:carnivora country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Marmota flaviventris country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Aonyx cinerea" ; Times: 1
+	Query: "Otaria byronia" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "genus:taxidea year &lt;= 1850" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:hemionus genus:odocoileus hasmass:1 haslength:1" ; Times: 2
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:pseudocrinitus genus:Peromyscus hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia" ; Times: 2
+	Query: "specificepithet:pseudocrinitus genus:Peromyscus hassex:1" ; Times: 1
+	Query: "scientificname:Felis pardalis" ; Times: 1
+	Query: "specificepithet:civetta genus:civettictis country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:caniceps genus:peromyscus hassex:1 hasmass:1" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "Erethizon dorsatum sex:Male hasmass:1" ; Times: 1
+	Query: "specificepithet:stephani genus:Peromyscus hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias class:mammalia" ; Times: 2
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1521 download events in this period)
+Total number of records downloaded: 8288
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 70
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-18 ; Times: 5
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-30 ; Times: 3
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-31 ; Times: 12
+	Date: 2020-10-14 ; Times: 21
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-16 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mammalia Nayarit México" ; Times: 3
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricuspis genus:manis" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Rhynchocyon petersi" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:HSU" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mammals Chile" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
